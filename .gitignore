@@ -1,0 +1,3 @@
+# No dependencies expected for this task, but standard ignores
+.DS_Store
+*.log
